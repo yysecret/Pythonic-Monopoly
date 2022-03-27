@@ -1,1 +1,2 @@
 # Pythonic-Monopoly
+This project utilizes HVPlot, Plotly Express, HVPlot and Panel to create an interactive dashboard for the 2010-2016 San Francisco housing market. By navigating through the tabs, you can epxlore the house units, sale price per square foot, gross rent by year and neighborhood.
